@@ -15,6 +15,5 @@ public class exercicio6 {
 
         System.out.println("O valor com desconto: R$ " + valorTotal);
 
-
     }
 }
