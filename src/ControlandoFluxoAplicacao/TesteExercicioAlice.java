@@ -1,6 +1,6 @@
 package ControlandoFluxoAplicacao;
 
-public class TesteExercicio {
+public class TesteExercicioAlice {
     public static void main(String[] args) {
         int contador = 1;
 
