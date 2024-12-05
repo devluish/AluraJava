@@ -20,7 +20,7 @@ import java.util.Scanner;
 
 public class Adivinha2 {
     public static void main(String[] args) {
-        Scanner numeroTentativas = new Scanner(System.in); // Scanner para coletar o número de tentativas
+        Scanner numeroTentativas = new Scanner(System.in); // Scanner para coletar o número de tentativas - Lê a entrada do user a partir do console
         Random random = new Random(); // Random para gerar números aleatórios
 
 
