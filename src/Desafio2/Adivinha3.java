@@ -30,7 +30,6 @@ public class Adivinha3 {
                 System.out.println("Tente um pouco mais alto!");
                 System.out.println("Restam: " + tentativas);
             }
-
             else {
                 System.out.println("-------------------------------");
                 System.out.println("Tente um pouco mais baixo!");
@@ -42,7 +41,6 @@ public class Adivinha3 {
             System.out.println("Você perdeu, faz o L");
             System.out.println("O número certo é: " + numeroAleatorio);
         }
-
         numeroTentativas.close();
     }
 
