@@ -4,7 +4,7 @@ Compare os números e imprima uma mensagem indicando se são iguais,
  diferentes, o primeiro é maior ou o segundo é maior.
  */
 
-package Desafio3;
+package Exercicio2;
 
 import java.util.Scanner;
 

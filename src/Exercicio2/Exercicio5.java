@@ -2,7 +2,7 @@
 Crie um programa que solicite ao usuário a entrada de um número inteiro. Verifique se o número é par ou ímpar e exiba uma mensagem correspondente.
  */
 
-package Desafio3;
+package Exercicio2;
 
 import java.util.Scanner;
 

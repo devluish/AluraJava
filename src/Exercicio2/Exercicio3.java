@@ -5,7 +5,7 @@ Crie um menu que oferece duas opções ao usuário:
 "3.Calcular área do círculo". Solicite a escolha do usuário e realize o cálculo da área com base na opção selecionada.
  */
 
-package Desafio3;
+package Exercicio2;
 
 import java.util.Scanner;
 
