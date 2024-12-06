@@ -38,10 +38,8 @@ public class Desafio {
         } else {
             contaEscolhida = "Conta Poupança"; // Atribui "Conta Poupança" à variável
         }
-        /****************************/
-        /***** MENU DO USUÁRIO ******/
-        /****************************/
 
+        // SISTEMA DE MENU
         System.out.println("***********BEM VINDO***********");
         System.out.println("Olá, " + nomeCliente);
         System.out.println("Tipo de conta " + contaEscolhida);
@@ -74,9 +72,14 @@ public class Desafio {
                     saldo -= valorTransferencia;
                     System.out.println("Saldo atual: R$" + saldo);
                 }
-                } else {
-                    System.out.println("Saindo do banco, voltei sempre!");
-                }
+            } else if (escolhaMenu != 4) {
+                System.out.println("Opção invalida");
             }
+            else {
+                System.out.println("Saindo do banco, voltei sempre!");
+            }
+
+        }
+
         }
 }
