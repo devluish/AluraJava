@@ -39,7 +39,7 @@ public class Desafio {
             contaEscolhida = "Conta Poupança"; // Atribui "Conta Poupança" à variável
         }
         /****************************/
-        /***** MENU DO USUÁRIO *****/
+        /***** MENU DO USUÁRIO ******/
         /****************************/
 
         System.out.println("***********BEM VINDO***********");
